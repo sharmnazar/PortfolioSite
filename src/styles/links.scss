@@ -1,0 +1,13 @@
+@import "./variables.scss";
+
+.links{
+    &__tab{
+        padding: 0.25rem 0.5rem;
+        &--accent{
+            filter: invert(99%) sepia(7%) saturate(196%) hue-rotate(276deg) brightness(119%) contrast(100%);
+        }
+        &--main{
+            filter: invert(12%) sepia(16%) saturate(7488%) hue-rotate(237deg) brightness(86%) contrast(103%);
+        }
+    }
+}

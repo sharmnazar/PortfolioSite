@@ -1,0 +1,17 @@
+@import "./variables.scss";
+
+.footer{
+    display: flex;
+    flex-flow: column;
+    justify-content: space-around;
+    align-items: center;
+    background: $indigo;
+    color: $white;
+    height: 100px;
+    @media (min-width:$tablet) {
+        height: 140px;
+        flex-flow: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+}
