@@ -9,22 +9,22 @@ state = {
       name: "Joy/n",
       id: "a001",
       link: "https://github.com/sharmnazar/Joyn",
-      desc: "Joy/n is a responsive web application that uses the user’s geolocation and specified interests to recommend suitable locations nearby." ,
-      image: "templogo.png"
+      desc: "Joy/n is a web application that uses the user’s geolocation and interests to recommend locations nearby." ,
+      image: "joyn.png"
     },
     {
       name: "Yung Wine",
       id: "a002",
       link: "https://github.com/sharmnazar/YungWine",
       desc: "Yung Wine is a site geared towards young adults, which would recommend a wine that suited their tastes and their budget.",
-      image: "templogo.png"
+      image: "yungwineLogo.png"
     },
     {
       name: "Trivia Game",
       id: "a003",
       link: "https://github.com/sharmnazar/TriviaGame",
       desc: "Trivia Game is an interactive game with music, a timer, with varying categories and difficulty. ",
-      image: "templogo.png"
+      image: "triviaGameLogo.png"
     },
   ]
 }

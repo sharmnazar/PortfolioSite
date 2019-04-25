@@ -1,0 +1,28 @@
+@import "./variables.scss";
+
+.project{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+&__image{
+    width: 70%;
+    height: 70%;
+    border: none;
+    align-self: center;
+}
+    &__title{
+       
+    }
+
+    &__subtitle{
+        padding: 0 1rem;
+        @media (min-width:$tablet) {
+            padding: 0 5rem;
+        }
+
+    }
+    &__text{
+
+    }
+}
