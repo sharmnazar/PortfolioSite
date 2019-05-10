@@ -19,9 +19,9 @@ export default class Nav extends Component {
               <h3 className="nav__links__tab--hidden">•</h3>
             </div>
             <div className="nav__links--bottom">
-              <h3 className="nav__links__tab"><Link to="./Resume">Resume</Link></h3>
+              <h3 className="nav__links__tab"><Link to="./resume">Resume</Link></h3>
               <h3>•</h3>
-              <h3 className="nav__links__tab"><Link to="./Blog">Currently Learning</Link></h3>
+              <h3 className="nav__links__tab"><Link to="./blog">Currently Learning</Link></h3>
             </div>
           </div>
       </nav>
