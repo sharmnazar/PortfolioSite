@@ -11,18 +11,15 @@
     border: none;
     align-self: center;
 }
-    &__title{
-       
-    }
+&__text{
+    margin: 1% 10%;
+}
 
     &__subtitle{
         padding: 0 1rem;
         @media (min-width:$tablet) {
             padding: 0 5rem;
         }
-
-    }
-    &__text{
 
     }
 }

@@ -6,7 +6,8 @@ export default class Contact extends Component {
       <section className="Contact">
         <h2>Contact</h2>
         <h3>Let's Create Something Together!</h3>
-        <p>Want to talk about tech? Or do you have a project you'd like me to work on? Shoot me an email or contact me through the social sites listed below.</p>
+        <p>Want to talk about tech? Or do you have a project you'd like me to work on? </p>
+          <p>Shoot me an email or contact me through the social sites listed below.</p>
 
 <div className="links">
           <a href="mailto: sharmnazar@gmail.com" className="links__tab">
